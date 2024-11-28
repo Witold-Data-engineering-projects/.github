@@ -11,6 +11,10 @@ I'm a data engineer who focuses on building secure, efficient, and scalable data
 Here are some of the projects you’ll find in this organization:
 
 ### [Project 1: Emplifi API Data Pipeline](https://github.com/WitoldDataEngineering/EmplifiAPIDataPipeline)
+
+
+
+
 **Overview**: A project demonstrating API data extraction and transformation using Python, designed to pull social media metrics from the Emplifi API.
 
 
