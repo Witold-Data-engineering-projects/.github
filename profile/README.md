@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a data engineer who focuses on building secure, efficient, and scalable data solutions. My background includes experience with APIs, SQL, Spark, Azure, and other data engineering tools and technologies.
+I'm a data engineer who focuses on building secure, efficient, and scalable data solutions. My background includes experience with APIs, SQL, PySpark, Azure Databricks, Azure Datafactory, Synapse, and other data engineering tools and technologies.
 
 ## Featured Projects
 
