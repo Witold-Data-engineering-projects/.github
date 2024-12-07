@@ -16,6 +16,11 @@ Here are some of the projects you’ll find in this organization:
 
 
 **Overview**: A project demonstrating API data extraction and transformation using Python, designed to pull social media metrics from the Emplifi API.
+* API Integration: Uses the Emplifi API to pull social media metrics.
+* Dynamic Configuration: Credentials, SSL certificates, and other configurations are fetched from a .env file for local development and are planned to be migrated to Azure Key Vault for deployment.
+* Custom Transformation Logic: Converts nested JSON API responses into clean DataFrames using pandas.
+* Multi-Level Data Insights: Supports metrics aggregation at both profile and post levels.
+* Secure Practices: Employs SSL certificates and environment variables for safe API access.
 
 
 <!--
