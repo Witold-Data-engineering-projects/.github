@@ -10,7 +10,7 @@ I'm a data engineer who focuses on building secure, efficient, and scalable data
 
 Here are some of the projects you’ll find in this organization:
 
-### [Project 1: Emplifi API Data Pipeline]([https://github.com/WitoldDataEngineering/EmplifiAPIDataPipeline)
+### [Project 1: Emplifi API Data Pipeline](https://github.com/Witold-Data-engineering-projects/Emplify-API-Data-Pipeline)
 
 
 
