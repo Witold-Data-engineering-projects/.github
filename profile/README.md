@@ -12,9 +12,6 @@ Here are some of the projects you’ll find in this organization:
 
 ### [Project 1: Emplifi API Data Pipeline](https://github.com/Witold-Data-engineering-projects/Emplify-API-Data-Pipeline)
 
-
-
-
 **Overview**: A project demonstrating API data extraction and transformation using Python, designed to pull social media metrics from the Emplifi API.
 * API Integration: Uses the Emplifi API to pull social media metrics.
 * Dynamic Configuration: Credentials, SSL certificates, and other configurations are fetched from a .env file for local development and are planned to be migrated to Azure Key Vault for deployment.
@@ -22,6 +19,15 @@ Here are some of the projects you’ll find in this organization:
 * Multi-Level Data Insights: Supports metrics aggregation at both profile and post levels.
 * Secure Practices: Employs SSL certificates and environment variables for safe API access.
 
+### [Project 2: Properties Data Scraper](https://github.com/Witold-Data-engineering-projects/Properties)
+
+
+**Overview**: This project scrapes property listings from the Rightmove website for several UK towns and stores the results in a MySQL database. The data collected includes property details such as title, address, price, and more. The project uses Python for web scraping and data processing, and SQLAlchemy to manage database connections.
+* Python for scripting
+* BeautifulSoup for web scraping
+* SQLAlchemy for handling database connections and queries
+* Pandas for data manipulation
+* MySQL as the database
 
 <!--
 
